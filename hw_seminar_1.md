@@ -100,6 +100,8 @@ git confing --global user.email <адрес_почты@email.com>
 
 * git branch -d name_branch - удаляет ветку
 
+* git log --graph - позволяет посмотреть структуру проекта и все его ветки
+
 
 ## Заключение
 
