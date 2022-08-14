@@ -129,6 +129,8 @@ git confing --global user.email <адрес_почты@email.com>
 
 Сейчас будем пушить
 
+Тестируем pull
+
 
 
 
